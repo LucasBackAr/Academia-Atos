@@ -1,0 +1,15 @@
+D:\Academia Atos\Desafio1_quest5\Desafio1_quest5\bin\Debug\net6.0\Desafio1_quest5.exe
+D:\Academia Atos\Desafio1_quest5\Desafio1_quest5\bin\Debug\net6.0\Desafio1_quest5.deps.json
+D:\Academia Atos\Desafio1_quest5\Desafio1_quest5\bin\Debug\net6.0\Desafio1_quest5.runtimeconfig.json
+D:\Academia Atos\Desafio1_quest5\Desafio1_quest5\bin\Debug\net6.0\Desafio1_quest5.dll
+D:\Academia Atos\Desafio1_quest5\Desafio1_quest5\bin\Debug\net6.0\Desafio1_quest5.pdb
+D:\Academia Atos\Desafio1_quest5\Desafio1_quest5\obj\Debug\net6.0\Desafio1_quest5.csproj.AssemblyReference.cache
+D:\Academia Atos\Desafio1_quest5\Desafio1_quest5\obj\Debug\net6.0\Desafio1_quest5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Academia Atos\Desafio1_quest5\Desafio1_quest5\obj\Debug\net6.0\Desafio1_quest5.AssemblyInfoInputs.cache
+D:\Academia Atos\Desafio1_quest5\Desafio1_quest5\obj\Debug\net6.0\Desafio1_quest5.AssemblyInfo.cs
+D:\Academia Atos\Desafio1_quest5\Desafio1_quest5\obj\Debug\net6.0\Desafio1_quest5.csproj.CoreCompileInputs.cache
+D:\Academia Atos\Desafio1_quest5\Desafio1_quest5\obj\Debug\net6.0\Desafio1_quest5.dll
+D:\Academia Atos\Desafio1_quest5\Desafio1_quest5\obj\Debug\net6.0\refint\Desafio1_quest5.dll
+D:\Academia Atos\Desafio1_quest5\Desafio1_quest5\obj\Debug\net6.0\Desafio1_quest5.pdb
+D:\Academia Atos\Desafio1_quest5\Desafio1_quest5\obj\Debug\net6.0\Desafio1_quest5.genruntimeconfig.cache
+D:\Academia Atos\Desafio1_quest5\Desafio1_quest5\obj\Debug\net6.0\ref\Desafio1_quest5.dll

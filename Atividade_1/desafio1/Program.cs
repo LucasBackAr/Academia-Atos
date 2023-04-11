@@ -8,6 +8,8 @@
         {
             //questão 1) media entre 2 números quaisquer
 
+            //ju deu certo
+
             double num1;
             double num2;
             

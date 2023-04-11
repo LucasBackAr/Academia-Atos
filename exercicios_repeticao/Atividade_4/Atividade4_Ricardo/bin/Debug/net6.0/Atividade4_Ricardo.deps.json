@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Atividade4_Ricardo/1.0.0": {
+        "runtime": {
+          "Atividade4_Ricardo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Atividade4_Ricardo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

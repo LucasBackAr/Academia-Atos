@@ -1,0 +1,15 @@
+D:\Academia Atos\Desafios_1\Atividade_12_Ricardo\Atividade_12_Ricardo\bin\Debug\net6.0\Atividade_12_Ricardo.exe
+D:\Academia Atos\Desafios_1\Atividade_12_Ricardo\Atividade_12_Ricardo\bin\Debug\net6.0\Atividade_12_Ricardo.deps.json
+D:\Academia Atos\Desafios_1\Atividade_12_Ricardo\Atividade_12_Ricardo\bin\Debug\net6.0\Atividade_12_Ricardo.runtimeconfig.json
+D:\Academia Atos\Desafios_1\Atividade_12_Ricardo\Atividade_12_Ricardo\bin\Debug\net6.0\Atividade_12_Ricardo.dll
+D:\Academia Atos\Desafios_1\Atividade_12_Ricardo\Atividade_12_Ricardo\bin\Debug\net6.0\Atividade_12_Ricardo.pdb
+D:\Academia Atos\Desafios_1\Atividade_12_Ricardo\Atividade_12_Ricardo\obj\Debug\net6.0\Atividade_12_Ricardo.csproj.AssemblyReference.cache
+D:\Academia Atos\Desafios_1\Atividade_12_Ricardo\Atividade_12_Ricardo\obj\Debug\net6.0\Atividade_12_Ricardo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Academia Atos\Desafios_1\Atividade_12_Ricardo\Atividade_12_Ricardo\obj\Debug\net6.0\Atividade_12_Ricardo.AssemblyInfoInputs.cache
+D:\Academia Atos\Desafios_1\Atividade_12_Ricardo\Atividade_12_Ricardo\obj\Debug\net6.0\Atividade_12_Ricardo.AssemblyInfo.cs
+D:\Academia Atos\Desafios_1\Atividade_12_Ricardo\Atividade_12_Ricardo\obj\Debug\net6.0\Atividade_12_Ricardo.csproj.CoreCompileInputs.cache
+D:\Academia Atos\Desafios_1\Atividade_12_Ricardo\Atividade_12_Ricardo\obj\Debug\net6.0\Atividade_12_Ricardo.dll
+D:\Academia Atos\Desafios_1\Atividade_12_Ricardo\Atividade_12_Ricardo\obj\Debug\net6.0\refint\Atividade_12_Ricardo.dll
+D:\Academia Atos\Desafios_1\Atividade_12_Ricardo\Atividade_12_Ricardo\obj\Debug\net6.0\Atividade_12_Ricardo.pdb
+D:\Academia Atos\Desafios_1\Atividade_12_Ricardo\Atividade_12_Ricardo\obj\Debug\net6.0\Atividade_12_Ricardo.genruntimeconfig.cache
+D:\Academia Atos\Desafios_1\Atividade_12_Ricardo\Atividade_12_Ricardo\obj\Debug\net6.0\ref\Atividade_12_Ricardo.dll

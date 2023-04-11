@@ -1,0 +1,15 @@
+D:\Academia Atos\Desafio2_ativ7\Desafio2_ativ7\bin\Debug\net6.0\Desafio2_ativ7.exe
+D:\Academia Atos\Desafio2_ativ7\Desafio2_ativ7\bin\Debug\net6.0\Desafio2_ativ7.deps.json
+D:\Academia Atos\Desafio2_ativ7\Desafio2_ativ7\bin\Debug\net6.0\Desafio2_ativ7.runtimeconfig.json
+D:\Academia Atos\Desafio2_ativ7\Desafio2_ativ7\bin\Debug\net6.0\Desafio2_ativ7.dll
+D:\Academia Atos\Desafio2_ativ7\Desafio2_ativ7\bin\Debug\net6.0\Desafio2_ativ7.pdb
+D:\Academia Atos\Desafio2_ativ7\Desafio2_ativ7\obj\Debug\net6.0\Desafio2_ativ7.csproj.AssemblyReference.cache
+D:\Academia Atos\Desafio2_ativ7\Desafio2_ativ7\obj\Debug\net6.0\Desafio2_ativ7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Academia Atos\Desafio2_ativ7\Desafio2_ativ7\obj\Debug\net6.0\Desafio2_ativ7.AssemblyInfoInputs.cache
+D:\Academia Atos\Desafio2_ativ7\Desafio2_ativ7\obj\Debug\net6.0\Desafio2_ativ7.AssemblyInfo.cs
+D:\Academia Atos\Desafio2_ativ7\Desafio2_ativ7\obj\Debug\net6.0\Desafio2_ativ7.csproj.CoreCompileInputs.cache
+D:\Academia Atos\Desafio2_ativ7\Desafio2_ativ7\obj\Debug\net6.0\Desafio2_ativ7.dll
+D:\Academia Atos\Desafio2_ativ7\Desafio2_ativ7\obj\Debug\net6.0\refint\Desafio2_ativ7.dll
+D:\Academia Atos\Desafio2_ativ7\Desafio2_ativ7\obj\Debug\net6.0\Desafio2_ativ7.pdb
+D:\Academia Atos\Desafio2_ativ7\Desafio2_ativ7\obj\Debug\net6.0\Desafio2_ativ7.genruntimeconfig.cache
+D:\Academia Atos\Desafio2_ativ7\Desafio2_ativ7\obj\Debug\net6.0\ref\Desafio2_ativ7.dll

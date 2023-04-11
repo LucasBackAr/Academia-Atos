@@ -1,0 +1,15 @@
+D:\Academia Atos\Desafio_Atividade9\Desafio_Atividade9\bin\Debug\net6.0\Desafio_Atividade9.exe
+D:\Academia Atos\Desafio_Atividade9\Desafio_Atividade9\bin\Debug\net6.0\Desafio_Atividade9.deps.json
+D:\Academia Atos\Desafio_Atividade9\Desafio_Atividade9\bin\Debug\net6.0\Desafio_Atividade9.runtimeconfig.json
+D:\Academia Atos\Desafio_Atividade9\Desafio_Atividade9\bin\Debug\net6.0\Desafio_Atividade9.dll
+D:\Academia Atos\Desafio_Atividade9\Desafio_Atividade9\bin\Debug\net6.0\Desafio_Atividade9.pdb
+D:\Academia Atos\Desafio_Atividade9\Desafio_Atividade9\obj\Debug\net6.0\Desafio_Atividade9.csproj.AssemblyReference.cache
+D:\Academia Atos\Desafio_Atividade9\Desafio_Atividade9\obj\Debug\net6.0\Desafio_Atividade9.GeneratedMSBuildEditorConfig.editorconfig
+D:\Academia Atos\Desafio_Atividade9\Desafio_Atividade9\obj\Debug\net6.0\Desafio_Atividade9.AssemblyInfoInputs.cache
+D:\Academia Atos\Desafio_Atividade9\Desafio_Atividade9\obj\Debug\net6.0\Desafio_Atividade9.AssemblyInfo.cs
+D:\Academia Atos\Desafio_Atividade9\Desafio_Atividade9\obj\Debug\net6.0\Desafio_Atividade9.csproj.CoreCompileInputs.cache
+D:\Academia Atos\Desafio_Atividade9\Desafio_Atividade9\obj\Debug\net6.0\Desafio_Atividade9.dll
+D:\Academia Atos\Desafio_Atividade9\Desafio_Atividade9\obj\Debug\net6.0\refint\Desafio_Atividade9.dll
+D:\Academia Atos\Desafio_Atividade9\Desafio_Atividade9\obj\Debug\net6.0\Desafio_Atividade9.pdb
+D:\Academia Atos\Desafio_Atividade9\Desafio_Atividade9\obj\Debug\net6.0\Desafio_Atividade9.genruntimeconfig.cache
+D:\Academia Atos\Desafio_Atividade9\Desafio_Atividade9\obj\Debug\net6.0\ref\Desafio_Atividade9.dll

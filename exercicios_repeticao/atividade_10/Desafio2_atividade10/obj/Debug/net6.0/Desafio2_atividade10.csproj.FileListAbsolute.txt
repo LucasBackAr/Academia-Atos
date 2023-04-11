@@ -1,0 +1,15 @@
+D:\Academia Atos\Desafio2_atividade10\Desafio2_atividade10\bin\Debug\net6.0\Desafio2_atividade10.exe
+D:\Academia Atos\Desafio2_atividade10\Desafio2_atividade10\bin\Debug\net6.0\Desafio2_atividade10.deps.json
+D:\Academia Atos\Desafio2_atividade10\Desafio2_atividade10\bin\Debug\net6.0\Desafio2_atividade10.runtimeconfig.json
+D:\Academia Atos\Desafio2_atividade10\Desafio2_atividade10\bin\Debug\net6.0\Desafio2_atividade10.dll
+D:\Academia Atos\Desafio2_atividade10\Desafio2_atividade10\bin\Debug\net6.0\Desafio2_atividade10.pdb
+D:\Academia Atos\Desafio2_atividade10\Desafio2_atividade10\obj\Debug\net6.0\Desafio2_atividade10.csproj.AssemblyReference.cache
+D:\Academia Atos\Desafio2_atividade10\Desafio2_atividade10\obj\Debug\net6.0\Desafio2_atividade10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Academia Atos\Desafio2_atividade10\Desafio2_atividade10\obj\Debug\net6.0\Desafio2_atividade10.AssemblyInfoInputs.cache
+D:\Academia Atos\Desafio2_atividade10\Desafio2_atividade10\obj\Debug\net6.0\Desafio2_atividade10.AssemblyInfo.cs
+D:\Academia Atos\Desafio2_atividade10\Desafio2_atividade10\obj\Debug\net6.0\Desafio2_atividade10.csproj.CoreCompileInputs.cache
+D:\Academia Atos\Desafio2_atividade10\Desafio2_atividade10\obj\Debug\net6.0\Desafio2_atividade10.dll
+D:\Academia Atos\Desafio2_atividade10\Desafio2_atividade10\obj\Debug\net6.0\refint\Desafio2_atividade10.dll
+D:\Academia Atos\Desafio2_atividade10\Desafio2_atividade10\obj\Debug\net6.0\Desafio2_atividade10.pdb
+D:\Academia Atos\Desafio2_atividade10\Desafio2_atividade10\obj\Debug\net6.0\Desafio2_atividade10.genruntimeconfig.cache
+D:\Academia Atos\Desafio2_atividade10\Desafio2_atividade10\obj\Debug\net6.0\ref\Desafio2_atividade10.dll

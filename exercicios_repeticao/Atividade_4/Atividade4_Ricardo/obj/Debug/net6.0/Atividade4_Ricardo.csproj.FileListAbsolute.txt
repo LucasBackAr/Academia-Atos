@@ -1,0 +1,15 @@
+D:\Academia Atos\Desafios_1\Atividade4_Ricardo\Atividade4_Ricardo\bin\Debug\net6.0\Atividade4_Ricardo.exe
+D:\Academia Atos\Desafios_1\Atividade4_Ricardo\Atividade4_Ricardo\bin\Debug\net6.0\Atividade4_Ricardo.deps.json
+D:\Academia Atos\Desafios_1\Atividade4_Ricardo\Atividade4_Ricardo\bin\Debug\net6.0\Atividade4_Ricardo.runtimeconfig.json
+D:\Academia Atos\Desafios_1\Atividade4_Ricardo\Atividade4_Ricardo\bin\Debug\net6.0\Atividade4_Ricardo.dll
+D:\Academia Atos\Desafios_1\Atividade4_Ricardo\Atividade4_Ricardo\bin\Debug\net6.0\Atividade4_Ricardo.pdb
+D:\Academia Atos\Desafios_1\Atividade4_Ricardo\Atividade4_Ricardo\obj\Debug\net6.0\Atividade4_Ricardo.csproj.AssemblyReference.cache
+D:\Academia Atos\Desafios_1\Atividade4_Ricardo\Atividade4_Ricardo\obj\Debug\net6.0\Atividade4_Ricardo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Academia Atos\Desafios_1\Atividade4_Ricardo\Atividade4_Ricardo\obj\Debug\net6.0\Atividade4_Ricardo.AssemblyInfoInputs.cache
+D:\Academia Atos\Desafios_1\Atividade4_Ricardo\Atividade4_Ricardo\obj\Debug\net6.0\Atividade4_Ricardo.AssemblyInfo.cs
+D:\Academia Atos\Desafios_1\Atividade4_Ricardo\Atividade4_Ricardo\obj\Debug\net6.0\Atividade4_Ricardo.csproj.CoreCompileInputs.cache
+D:\Academia Atos\Desafios_1\Atividade4_Ricardo\Atividade4_Ricardo\obj\Debug\net6.0\Atividade4_Ricardo.dll
+D:\Academia Atos\Desafios_1\Atividade4_Ricardo\Atividade4_Ricardo\obj\Debug\net6.0\refint\Atividade4_Ricardo.dll
+D:\Academia Atos\Desafios_1\Atividade4_Ricardo\Atividade4_Ricardo\obj\Debug\net6.0\Atividade4_Ricardo.pdb
+D:\Academia Atos\Desafios_1\Atividade4_Ricardo\Atividade4_Ricardo\obj\Debug\net6.0\Atividade4_Ricardo.genruntimeconfig.cache
+D:\Academia Atos\Desafios_1\Atividade4_Ricardo\Atividade4_Ricardo\obj\Debug\net6.0\ref\Atividade4_Ricardo.dll

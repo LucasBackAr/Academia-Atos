@@ -1,0 +1,15 @@
+D:\Academia Atos\desafio2_aulaRicardo\desafio2_aulaRicardo\obj\Debug\net6.0\desafio2_aulaRicardo.csproj.AssemblyReference.cache
+D:\Academia Atos\desafio2_aulaRicardo\desafio2_aulaRicardo\obj\Debug\net6.0\desafio2_aulaRicardo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Academia Atos\desafio2_aulaRicardo\desafio2_aulaRicardo\obj\Debug\net6.0\desafio2_aulaRicardo.AssemblyInfoInputs.cache
+D:\Academia Atos\desafio2_aulaRicardo\desafio2_aulaRicardo\obj\Debug\net6.0\desafio2_aulaRicardo.AssemblyInfo.cs
+D:\Academia Atos\desafio2_aulaRicardo\desafio2_aulaRicardo\obj\Debug\net6.0\desafio2_aulaRicardo.csproj.CoreCompileInputs.cache
+D:\Academia Atos\desafio2_aulaRicardo\desafio2_aulaRicardo\bin\Debug\net6.0\desafio2_aulaRicardo.exe
+D:\Academia Atos\desafio2_aulaRicardo\desafio2_aulaRicardo\bin\Debug\net6.0\desafio2_aulaRicardo.deps.json
+D:\Academia Atos\desafio2_aulaRicardo\desafio2_aulaRicardo\bin\Debug\net6.0\desafio2_aulaRicardo.runtimeconfig.json
+D:\Academia Atos\desafio2_aulaRicardo\desafio2_aulaRicardo\bin\Debug\net6.0\desafio2_aulaRicardo.dll
+D:\Academia Atos\desafio2_aulaRicardo\desafio2_aulaRicardo\bin\Debug\net6.0\desafio2_aulaRicardo.pdb
+D:\Academia Atos\desafio2_aulaRicardo\desafio2_aulaRicardo\obj\Debug\net6.0\desafio2_aulaRicardo.dll
+D:\Academia Atos\desafio2_aulaRicardo\desafio2_aulaRicardo\obj\Debug\net6.0\refint\desafio2_aulaRicardo.dll
+D:\Academia Atos\desafio2_aulaRicardo\desafio2_aulaRicardo\obj\Debug\net6.0\desafio2_aulaRicardo.pdb
+D:\Academia Atos\desafio2_aulaRicardo\desafio2_aulaRicardo\obj\Debug\net6.0\desafio2_aulaRicardo.genruntimeconfig.cache
+D:\Academia Atos\desafio2_aulaRicardo\desafio2_aulaRicardo\obj\Debug\net6.0\ref\desafio2_aulaRicardo.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OxQXnJOflL6jbW0jo+/fY+E/mdoo0JgZMN5RQnW7XfixY8a2U0D1KL53D2Z9RXSGGBUULxSd+ruixtVt8QpreA==",
+  "success": true,
+  "projectFilePath": "D:\\Academia Atos\\exerciciosSeleção_2\\atividade_5\\desafio2_aulaRicardo\\desafio2_aulaRicardo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lucas\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\6.0.15\\microsoft.netcore.app.host.win-x86.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

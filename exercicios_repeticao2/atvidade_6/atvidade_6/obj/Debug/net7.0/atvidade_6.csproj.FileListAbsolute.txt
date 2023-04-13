@@ -1,0 +1,15 @@
+D:\Academia Atos\exercicios\exercicios_repeticao2\atvidade_6\atvidade_6\bin\Debug\net7.0\atvidade_6.exe
+D:\Academia Atos\exercicios\exercicios_repeticao2\atvidade_6\atvidade_6\bin\Debug\net7.0\atvidade_6.deps.json
+D:\Academia Atos\exercicios\exercicios_repeticao2\atvidade_6\atvidade_6\bin\Debug\net7.0\atvidade_6.runtimeconfig.json
+D:\Academia Atos\exercicios\exercicios_repeticao2\atvidade_6\atvidade_6\bin\Debug\net7.0\atvidade_6.dll
+D:\Academia Atos\exercicios\exercicios_repeticao2\atvidade_6\atvidade_6\bin\Debug\net7.0\atvidade_6.pdb
+D:\Academia Atos\exercicios\exercicios_repeticao2\atvidade_6\atvidade_6\obj\Debug\net7.0\atvidade_6.csproj.AssemblyReference.cache
+D:\Academia Atos\exercicios\exercicios_repeticao2\atvidade_6\atvidade_6\obj\Debug\net7.0\atvidade_6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Academia Atos\exercicios\exercicios_repeticao2\atvidade_6\atvidade_6\obj\Debug\net7.0\atvidade_6.AssemblyInfoInputs.cache
+D:\Academia Atos\exercicios\exercicios_repeticao2\atvidade_6\atvidade_6\obj\Debug\net7.0\atvidade_6.AssemblyInfo.cs
+D:\Academia Atos\exercicios\exercicios_repeticao2\atvidade_6\atvidade_6\obj\Debug\net7.0\atvidade_6.csproj.CoreCompileInputs.cache
+D:\Academia Atos\exercicios\exercicios_repeticao2\atvidade_6\atvidade_6\obj\Debug\net7.0\atvidade_6.dll
+D:\Academia Atos\exercicios\exercicios_repeticao2\atvidade_6\atvidade_6\obj\Debug\net7.0\refint\atvidade_6.dll
+D:\Academia Atos\exercicios\exercicios_repeticao2\atvidade_6\atvidade_6\obj\Debug\net7.0\atvidade_6.pdb
+D:\Academia Atos\exercicios\exercicios_repeticao2\atvidade_6\atvidade_6\obj\Debug\net7.0\atvidade_6.genruntimeconfig.cache
+D:\Academia Atos\exercicios\exercicios_repeticao2\atvidade_6\atvidade_6\obj\Debug\net7.0\ref\atvidade_6.dll

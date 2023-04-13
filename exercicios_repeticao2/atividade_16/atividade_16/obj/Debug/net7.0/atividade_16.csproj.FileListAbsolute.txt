@@ -1,0 +1,15 @@
+D:\Academia Atos\exercicios\exercicios_repeticao2\atividade_16\atividade_16\obj\Debug\net7.0\atividade_16.csproj.AssemblyReference.cache
+D:\Academia Atos\exercicios\exercicios_repeticao2\atividade_16\atividade_16\obj\Debug\net7.0\atividade_16.GeneratedMSBuildEditorConfig.editorconfig
+D:\Academia Atos\exercicios\exercicios_repeticao2\atividade_16\atividade_16\obj\Debug\net7.0\atividade_16.AssemblyInfoInputs.cache
+D:\Academia Atos\exercicios\exercicios_repeticao2\atividade_16\atividade_16\obj\Debug\net7.0\atividade_16.AssemblyInfo.cs
+D:\Academia Atos\exercicios\exercicios_repeticao2\atividade_16\atividade_16\obj\Debug\net7.0\atividade_16.csproj.CoreCompileInputs.cache
+D:\Academia Atos\exercicios\exercicios_repeticao2\atividade_16\atividade_16\bin\Debug\net7.0\atividade_16.exe
+D:\Academia Atos\exercicios\exercicios_repeticao2\atividade_16\atividade_16\bin\Debug\net7.0\atividade_16.deps.json
+D:\Academia Atos\exercicios\exercicios_repeticao2\atividade_16\atividade_16\bin\Debug\net7.0\atividade_16.runtimeconfig.json
+D:\Academia Atos\exercicios\exercicios_repeticao2\atividade_16\atividade_16\bin\Debug\net7.0\atividade_16.dll
+D:\Academia Atos\exercicios\exercicios_repeticao2\atividade_16\atividade_16\bin\Debug\net7.0\atividade_16.pdb
+D:\Academia Atos\exercicios\exercicios_repeticao2\atividade_16\atividade_16\obj\Debug\net7.0\atividade_16.dll
+D:\Academia Atos\exercicios\exercicios_repeticao2\atividade_16\atividade_16\obj\Debug\net7.0\refint\atividade_16.dll
+D:\Academia Atos\exercicios\exercicios_repeticao2\atividade_16\atividade_16\obj\Debug\net7.0\atividade_16.pdb
+D:\Academia Atos\exercicios\exercicios_repeticao2\atividade_16\atividade_16\obj\Debug\net7.0\atividade_16.genruntimeconfig.cache
+D:\Academia Atos\exercicios\exercicios_repeticao2\atividade_16\atividade_16\obj\Debug\net7.0\ref\atividade_16.dll

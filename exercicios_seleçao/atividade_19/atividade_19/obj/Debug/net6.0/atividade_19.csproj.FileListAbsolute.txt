@@ -1,0 +1,15 @@
+D:\Academia Atos\Aulas\Aula_10_04\atividade_19\atividade_19\bin\Debug\net6.0\atividade_19.exe
+D:\Academia Atos\Aulas\Aula_10_04\atividade_19\atividade_19\bin\Debug\net6.0\atividade_19.deps.json
+D:\Academia Atos\Aulas\Aula_10_04\atividade_19\atividade_19\bin\Debug\net6.0\atividade_19.runtimeconfig.json
+D:\Academia Atos\Aulas\Aula_10_04\atividade_19\atividade_19\bin\Debug\net6.0\atividade_19.dll
+D:\Academia Atos\Aulas\Aula_10_04\atividade_19\atividade_19\bin\Debug\net6.0\atividade_19.pdb
+D:\Academia Atos\Aulas\Aula_10_04\atividade_19\atividade_19\obj\Debug\net6.0\atividade_19.csproj.AssemblyReference.cache
+D:\Academia Atos\Aulas\Aula_10_04\atividade_19\atividade_19\obj\Debug\net6.0\atividade_19.GeneratedMSBuildEditorConfig.editorconfig
+D:\Academia Atos\Aulas\Aula_10_04\atividade_19\atividade_19\obj\Debug\net6.0\atividade_19.AssemblyInfoInputs.cache
+D:\Academia Atos\Aulas\Aula_10_04\atividade_19\atividade_19\obj\Debug\net6.0\atividade_19.AssemblyInfo.cs
+D:\Academia Atos\Aulas\Aula_10_04\atividade_19\atividade_19\obj\Debug\net6.0\atividade_19.csproj.CoreCompileInputs.cache
+D:\Academia Atos\Aulas\Aula_10_04\atividade_19\atividade_19\obj\Debug\net6.0\atividade_19.dll
+D:\Academia Atos\Aulas\Aula_10_04\atividade_19\atividade_19\obj\Debug\net6.0\refint\atividade_19.dll
+D:\Academia Atos\Aulas\Aula_10_04\atividade_19\atividade_19\obj\Debug\net6.0\atividade_19.pdb
+D:\Academia Atos\Aulas\Aula_10_04\atividade_19\atividade_19\obj\Debug\net6.0\atividade_19.genruntimeconfig.cache
+D:\Academia Atos\Aulas\Aula_10_04\atividade_19\atividade_19\obj\Debug\net6.0\ref\atividade_19.dll

@@ -1,0 +1,15 @@
+D:\Academia Atos\exercicios\exercicios_repeticao2\atividade_7\atividade_7\bin\Debug\net7.0\atividade_7.exe
+D:\Academia Atos\exercicios\exercicios_repeticao2\atividade_7\atividade_7\bin\Debug\net7.0\atividade_7.deps.json
+D:\Academia Atos\exercicios\exercicios_repeticao2\atividade_7\atividade_7\bin\Debug\net7.0\atividade_7.runtimeconfig.json
+D:\Academia Atos\exercicios\exercicios_repeticao2\atividade_7\atividade_7\bin\Debug\net7.0\atividade_7.dll
+D:\Academia Atos\exercicios\exercicios_repeticao2\atividade_7\atividade_7\bin\Debug\net7.0\atividade_7.pdb
+D:\Academia Atos\exercicios\exercicios_repeticao2\atividade_7\atividade_7\obj\Debug\net7.0\atividade_7.csproj.AssemblyReference.cache
+D:\Academia Atos\exercicios\exercicios_repeticao2\atividade_7\atividade_7\obj\Debug\net7.0\atividade_7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Academia Atos\exercicios\exercicios_repeticao2\atividade_7\atividade_7\obj\Debug\net7.0\atividade_7.AssemblyInfoInputs.cache
+D:\Academia Atos\exercicios\exercicios_repeticao2\atividade_7\atividade_7\obj\Debug\net7.0\atividade_7.AssemblyInfo.cs
+D:\Academia Atos\exercicios\exercicios_repeticao2\atividade_7\atividade_7\obj\Debug\net7.0\atividade_7.csproj.CoreCompileInputs.cache
+D:\Academia Atos\exercicios\exercicios_repeticao2\atividade_7\atividade_7\obj\Debug\net7.0\atividade_7.dll
+D:\Academia Atos\exercicios\exercicios_repeticao2\atividade_7\atividade_7\obj\Debug\net7.0\refint\atividade_7.dll
+D:\Academia Atos\exercicios\exercicios_repeticao2\atividade_7\atividade_7\obj\Debug\net7.0\atividade_7.pdb
+D:\Academia Atos\exercicios\exercicios_repeticao2\atividade_7\atividade_7\obj\Debug\net7.0\atividade_7.genruntimeconfig.cache
+D:\Academia Atos\exercicios\exercicios_repeticao2\atividade_7\atividade_7\obj\Debug\net7.0\ref\atividade_7.dll

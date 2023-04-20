@@ -1,0 +1,15 @@
+D:\Academia Atos\exercicios\exercicios_matriz\atividade_matrizpt1\atividade_4\bin\Debug\net7.0\atividade_4.exe
+D:\Academia Atos\exercicios\exercicios_matriz\atividade_matrizpt1\atividade_4\bin\Debug\net7.0\atividade_4.deps.json
+D:\Academia Atos\exercicios\exercicios_matriz\atividade_matrizpt1\atividade_4\bin\Debug\net7.0\atividade_4.runtimeconfig.json
+D:\Academia Atos\exercicios\exercicios_matriz\atividade_matrizpt1\atividade_4\bin\Debug\net7.0\atividade_4.dll
+D:\Academia Atos\exercicios\exercicios_matriz\atividade_matrizpt1\atividade_4\bin\Debug\net7.0\atividade_4.pdb
+D:\Academia Atos\exercicios\exercicios_matriz\atividade_matrizpt1\atividade_4\obj\Debug\net7.0\atividade_4.csproj.AssemblyReference.cache
+D:\Academia Atos\exercicios\exercicios_matriz\atividade_matrizpt1\atividade_4\obj\Debug\net7.0\atividade_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Academia Atos\exercicios\exercicios_matriz\atividade_matrizpt1\atividade_4\obj\Debug\net7.0\atividade_4.AssemblyInfoInputs.cache
+D:\Academia Atos\exercicios\exercicios_matriz\atividade_matrizpt1\atividade_4\obj\Debug\net7.0\atividade_4.AssemblyInfo.cs
+D:\Academia Atos\exercicios\exercicios_matriz\atividade_matrizpt1\atividade_4\obj\Debug\net7.0\atividade_4.csproj.CoreCompileInputs.cache
+D:\Academia Atos\exercicios\exercicios_matriz\atividade_matrizpt1\atividade_4\obj\Debug\net7.0\atividade_4.dll
+D:\Academia Atos\exercicios\exercicios_matriz\atividade_matrizpt1\atividade_4\obj\Debug\net7.0\refint\atividade_4.dll
+D:\Academia Atos\exercicios\exercicios_matriz\atividade_matrizpt1\atividade_4\obj\Debug\net7.0\atividade_4.pdb
+D:\Academia Atos\exercicios\exercicios_matriz\atividade_matrizpt1\atividade_4\obj\Debug\net7.0\atividade_4.genruntimeconfig.cache
+D:\Academia Atos\exercicios\exercicios_matriz\atividade_matrizpt1\atividade_4\obj\Debug\net7.0\ref\atividade_4.dll

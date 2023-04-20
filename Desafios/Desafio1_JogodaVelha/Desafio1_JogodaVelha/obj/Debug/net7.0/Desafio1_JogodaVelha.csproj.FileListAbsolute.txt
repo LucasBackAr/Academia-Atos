@@ -1,0 +1,15 @@
+D:\Academia Atos\exercicios\Desafios\Desafio1_JogodaVelha\Desafio1_JogodaVelha\bin\Debug\net7.0\Desafio1_JogodaVelha.exe
+D:\Academia Atos\exercicios\Desafios\Desafio1_JogodaVelha\Desafio1_JogodaVelha\bin\Debug\net7.0\Desafio1_JogodaVelha.deps.json
+D:\Academia Atos\exercicios\Desafios\Desafio1_JogodaVelha\Desafio1_JogodaVelha\bin\Debug\net7.0\Desafio1_JogodaVelha.runtimeconfig.json
+D:\Academia Atos\exercicios\Desafios\Desafio1_JogodaVelha\Desafio1_JogodaVelha\bin\Debug\net7.0\Desafio1_JogodaVelha.dll
+D:\Academia Atos\exercicios\Desafios\Desafio1_JogodaVelha\Desafio1_JogodaVelha\bin\Debug\net7.0\Desafio1_JogodaVelha.pdb
+D:\Academia Atos\exercicios\Desafios\Desafio1_JogodaVelha\Desafio1_JogodaVelha\obj\Debug\net7.0\Desafio1_JogodaVelha.csproj.AssemblyReference.cache
+D:\Academia Atos\exercicios\Desafios\Desafio1_JogodaVelha\Desafio1_JogodaVelha\obj\Debug\net7.0\Desafio1_JogodaVelha.GeneratedMSBuildEditorConfig.editorconfig
+D:\Academia Atos\exercicios\Desafios\Desafio1_JogodaVelha\Desafio1_JogodaVelha\obj\Debug\net7.0\Desafio1_JogodaVelha.AssemblyInfoInputs.cache
+D:\Academia Atos\exercicios\Desafios\Desafio1_JogodaVelha\Desafio1_JogodaVelha\obj\Debug\net7.0\Desafio1_JogodaVelha.AssemblyInfo.cs
+D:\Academia Atos\exercicios\Desafios\Desafio1_JogodaVelha\Desafio1_JogodaVelha\obj\Debug\net7.0\Desafio1_JogodaVelha.csproj.CoreCompileInputs.cache
+D:\Academia Atos\exercicios\Desafios\Desafio1_JogodaVelha\Desafio1_JogodaVelha\obj\Debug\net7.0\Desafio1_JogodaVelha.dll
+D:\Academia Atos\exercicios\Desafios\Desafio1_JogodaVelha\Desafio1_JogodaVelha\obj\Debug\net7.0\refint\Desafio1_JogodaVelha.dll
+D:\Academia Atos\exercicios\Desafios\Desafio1_JogodaVelha\Desafio1_JogodaVelha\obj\Debug\net7.0\Desafio1_JogodaVelha.pdb
+D:\Academia Atos\exercicios\Desafios\Desafio1_JogodaVelha\Desafio1_JogodaVelha\obj\Debug\net7.0\Desafio1_JogodaVelha.genruntimeconfig.cache
+D:\Academia Atos\exercicios\Desafios\Desafio1_JogodaVelha\Desafio1_JogodaVelha\obj\Debug\net7.0\ref\Desafio1_JogodaVelha.dll

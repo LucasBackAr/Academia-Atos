@@ -1,0 +1,15 @@
+D:\Academia Atos\exercicios\exercicios_vetor\atividade_6\atividade_83\bin\Debug\net7.0\atividade_8.exe
+D:\Academia Atos\exercicios\exercicios_vetor\atividade_6\atividade_83\bin\Debug\net7.0\atividade_8.deps.json
+D:\Academia Atos\exercicios\exercicios_vetor\atividade_6\atividade_83\bin\Debug\net7.0\atividade_8.runtimeconfig.json
+D:\Academia Atos\exercicios\exercicios_vetor\atividade_6\atividade_83\bin\Debug\net7.0\atividade_8.dll
+D:\Academia Atos\exercicios\exercicios_vetor\atividade_6\atividade_83\bin\Debug\net7.0\atividade_8.pdb
+D:\Academia Atos\exercicios\exercicios_vetor\atividade_6\atividade_83\obj\Debug\net7.0\atividade_8.csproj.AssemblyReference.cache
+D:\Academia Atos\exercicios\exercicios_vetor\atividade_6\atividade_83\obj\Debug\net7.0\atividade_8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Academia Atos\exercicios\exercicios_vetor\atividade_6\atividade_83\obj\Debug\net7.0\atividade_8.AssemblyInfoInputs.cache
+D:\Academia Atos\exercicios\exercicios_vetor\atividade_6\atividade_83\obj\Debug\net7.0\atividade_8.AssemblyInfo.cs
+D:\Academia Atos\exercicios\exercicios_vetor\atividade_6\atividade_83\obj\Debug\net7.0\atividade_8.csproj.CoreCompileInputs.cache
+D:\Academia Atos\exercicios\exercicios_vetor\atividade_6\atividade_83\obj\Debug\net7.0\atividade_8.dll
+D:\Academia Atos\exercicios\exercicios_vetor\atividade_6\atividade_83\obj\Debug\net7.0\refint\atividade_8.dll
+D:\Academia Atos\exercicios\exercicios_vetor\atividade_6\atividade_83\obj\Debug\net7.0\atividade_8.pdb
+D:\Academia Atos\exercicios\exercicios_vetor\atividade_6\atividade_83\obj\Debug\net7.0\atividade_8.genruntimeconfig.cache
+D:\Academia Atos\exercicios\exercicios_vetor\atividade_6\atividade_83\obj\Debug\net7.0\ref\atividade_8.dll

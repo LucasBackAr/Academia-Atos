@@ -1,0 +1,15 @@
+D:\Academia Atos\exercicios\exercicios_matriz\atividade_matrizpt1\atividade_matrizpt1\bin\Debug\net7.0\atividade_matrizpt1.exe
+D:\Academia Atos\exercicios\exercicios_matriz\atividade_matrizpt1\atividade_matrizpt1\bin\Debug\net7.0\atividade_matrizpt1.deps.json
+D:\Academia Atos\exercicios\exercicios_matriz\atividade_matrizpt1\atividade_matrizpt1\bin\Debug\net7.0\atividade_matrizpt1.runtimeconfig.json
+D:\Academia Atos\exercicios\exercicios_matriz\atividade_matrizpt1\atividade_matrizpt1\bin\Debug\net7.0\atividade_matrizpt1.dll
+D:\Academia Atos\exercicios\exercicios_matriz\atividade_matrizpt1\atividade_matrizpt1\bin\Debug\net7.0\atividade_matrizpt1.pdb
+D:\Academia Atos\exercicios\exercicios_matriz\atividade_matrizpt1\atividade_matrizpt1\obj\Debug\net7.0\atividade_matrizpt1.csproj.AssemblyReference.cache
+D:\Academia Atos\exercicios\exercicios_matriz\atividade_matrizpt1\atividade_matrizpt1\obj\Debug\net7.0\atividade_matrizpt1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Academia Atos\exercicios\exercicios_matriz\atividade_matrizpt1\atividade_matrizpt1\obj\Debug\net7.0\atividade_matrizpt1.AssemblyInfoInputs.cache
+D:\Academia Atos\exercicios\exercicios_matriz\atividade_matrizpt1\atividade_matrizpt1\obj\Debug\net7.0\atividade_matrizpt1.AssemblyInfo.cs
+D:\Academia Atos\exercicios\exercicios_matriz\atividade_matrizpt1\atividade_matrizpt1\obj\Debug\net7.0\atividade_matrizpt1.csproj.CoreCompileInputs.cache
+D:\Academia Atos\exercicios\exercicios_matriz\atividade_matrizpt1\atividade_matrizpt1\obj\Debug\net7.0\atividade_matrizpt1.dll
+D:\Academia Atos\exercicios\exercicios_matriz\atividade_matrizpt1\atividade_matrizpt1\obj\Debug\net7.0\refint\atividade_matrizpt1.dll
+D:\Academia Atos\exercicios\exercicios_matriz\atividade_matrizpt1\atividade_matrizpt1\obj\Debug\net7.0\atividade_matrizpt1.pdb
+D:\Academia Atos\exercicios\exercicios_matriz\atividade_matrizpt1\atividade_matrizpt1\obj\Debug\net7.0\atividade_matrizpt1.genruntimeconfig.cache
+D:\Academia Atos\exercicios\exercicios_matriz\atividade_matrizpt1\atividade_matrizpt1\obj\Debug\net7.0\ref\atividade_matrizpt1.dll

@@ -145,15 +145,16 @@ namespace Desafio1_JogodaVelha
                     break;
 
                 }
-                if (matriz[0, 0] != matriz[1, 1] && matriz[1, 1] == matriz[2, 2] || matriz[2, 0] != matriz[1, 1] && matriz[1, 1]
-                    != matriz[2, 0] || matriz[0, 0] == matriz[0, 1] && matriz[0, 1] != matriz[2, 0] || matriz[0, 0] == matriz[1, 0]
-                    && matriz[1, 0] == matriz[2, 0] || matriz[1, 0] == matriz[1, 1] && matriz[1, 1] == matriz[2, 1] ||
-                    matriz[2, 0] != matriz[2, 1] && matriz[2, 1] == matriz[2, 2] || matriz[0, 1] != matriz[1, 1] && matriz[2, 1] ==
-                    matriz[1, 1] || matriz[2, 0] != matriz[2, 1] && matriz[2, 1] == matriz[2, 2])//acabei colocando esse if,
-                                                                                                 //pq como fiz com char n achei outra solução para o empate
-                {
-                    Console.WriteLine( "DEU VELHA, EMPATASTE MEUS QUERIDOS!!" );
-                }               
+                //if (matriz[0, 0] != matriz[1, 1] && matriz[1, 1] == matriz[2, 2] || matriz[2, 0] != matriz[1, 1] && matriz[1, 1]
+                //    != matriz[2, 0] || matriz[0, 0] == matriz[0, 1] && matriz[0, 1] != matriz[2, 0] || matriz[0, 0] == matriz[1, 0]
+                //    && matriz[1, 0] == matriz[2, 0] || matriz[1, 0] == matriz[1, 1] && matriz[1, 1] == matriz[2, 1] ||
+                //    matriz[2, 0] != matriz[2, 1] && matriz[2, 1] == matriz[2, 2] || matriz[0, 1] != matriz[1, 1] && matriz[2, 1] ==
+                //    matriz[1, 1] || matriz[2, 0] != matriz[2, 1] && matriz[2, 1] == matriz[2, 2])   //acabei colocando esse if,
+                //                                                                                    //pq como fiz com char n achei outra solução para o empate
+                //{
+                //    Console.WriteLine("DEU VELHA, EMPATASTE MEUS QUERIDOS!!");
+                    
+                //}               
 
                 FimDaTela();
 

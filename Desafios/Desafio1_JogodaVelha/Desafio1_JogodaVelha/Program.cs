@@ -63,8 +63,6 @@ namespace Desafio1_JogodaVelha
                 {
 
                     Console.Write($"|{matriz[i, j]}|");
-
-
                 }
 
                 Console.WriteLine();
@@ -81,20 +79,24 @@ namespace Desafio1_JogodaVelha
             int jogadas = 0;
 
             //matriz principal
-            MatrizPrincipal();            
-
+            MatrizPrincipal();
+            Console.WriteLine("Vez do Jogador 1: X");
             FimDaTela();
 
             char escolha = Console.ReadKey().KeyChar; //escolhe a letra
+            bool escolhaInvalida = true; 
+
             List<char> listNumeros = new List<char>() { '1', '2', '3', '4', '5', '6', '7', '8', '9' };
 
-            Console.Clear(); //limpando o console
+           
             Console.WriteLine();
 
             //Loop
-            while (jogadas < 9)
+            while (jogadas < 8)
             {
-                MensagemNaTela();
+                
+                
+                escolhaInvalida = true;
 
                 for (int i = 0; i < matriz.GetLength(0); i++) //reescreve
                 {
@@ -104,20 +106,21 @@ namespace Desafio1_JogodaVelha
                         if (matriz[i, j] == escolha && listNumeros.Contains(escolha))
                         {
                             matriz[i,j] = turno1;
-                            //listNumeros.Remove(escolha);
-                                                       
-                            
-                        }
+                            escolhaInvalida = false;    
+                            break;
+                        }                        
                         if (!listNumeros.Contains(escolha))
                         {
-
                             Console.WriteLine("Jogada inválida, tente novamente!");
                             escolha = Console.ReadKey().KeyChar;
                             Console.WriteLine();
-
                         }
+
                     }
-                }              
+                }
+                
+                Console.Clear();
+                MensagemNaTela();
 
                 for (int i = 0; i < matriz.GetLength(0); i++) //reimprime a matriz
                 {
@@ -132,58 +135,48 @@ namespace Desafio1_JogodaVelha
                     Console.WriteLine();
                     
                 }
+                if (escolhaInvalida == false)
+                {
+                    if (turno1 == 'X') //Alterando o jogador
+                    {
+                        Console.WriteLine($"Vez do Jogador 2: O");
+                        turno1 = turno2;
+                    }
+                    else
+                    {
+                        Console.WriteLine($"Vez do jogador 1: X");
+                        turno1 = 'X';
+                    }
+                    jogadas++; //DEFINE O EMPATE
 
+                }
                 //CONDIÇÕES DE VITORIA
-                if (matriz[0, 0] == matriz[1, 1] && matriz[1, 1] == matriz[2, 2] || matriz[2, 0] == matriz[1, 1] && matriz[1, 1]
-                    == matriz[2, 0] || matriz[0, 0] == matriz[0, 1] && matriz[0, 1] == matriz[2, 0] || matriz[0, 0] == matriz[1, 0]
-                    && matriz[1, 0] == matriz[2, 0] || matriz[1, 0] == matriz[1, 1] && matriz[1, 1] == matriz[2, 1] ||
-                    matriz[2, 0] == matriz[2, 1] && matriz[2, 1] == matriz[2, 2] || matriz[0, 1] == matriz[1, 1] && matriz[2, 1] ==
-                    matriz[1, 1] || matriz[2, 0] == matriz[2, 1] && matriz[2, 1] == matriz[2, 2])
+
+                if (   matriz[0, 0] == matriz[1, 1] && matriz[1, 1] == matriz[2, 2] //primeira diagonal
+                    || matriz[2, 0] == matriz[1, 1] && matriz[1, 1] == matriz[0 , 2] //segunda diagonal
+                    || matriz[0, 0] == matriz[0, 1] && matriz[0, 1] == matriz[0, 2] //primeira coluna
+                    || matriz[0, 1] == matriz[1, 1] && matriz[2, 1] == matriz[1, 1] //segunda coluna
+                    || matriz[0, 2] == matriz[1, 2] && matriz[1, 2] == matriz[2, 2] //terceira coluna
+                    || matriz[0, 0] == matriz[1, 0] && matriz[1, 0] == matriz[2 , 0] //primeira linha  
+                    || matriz[1, 0] == matriz[1, 1] && matriz[1, 1] == matriz[1, 2] //segunda linha  
+                    || matriz[2, 0] == matriz[2, 1] && matriz[2, 1] == matriz[2, 2]) //terceira linha
                 {
                     Console.WriteLine("VITÓRIA!");
                     Console.WriteLine("FIM DE JOGO!!!");
                     break;
 
                 }
-                //if (matriz[0, 0] != matriz[1, 1] && matriz[1, 1] == matriz[2, 2] || matriz[2, 0] != matriz[1, 1] && matriz[1, 1]
-                //    != matriz[2, 0] || matriz[0, 0] == matriz[0, 1] && matriz[0, 1] != matriz[2, 0] || matriz[0, 0] == matriz[1, 0]
-                //    && matriz[1, 0] == matriz[2, 0] || matriz[1, 0] == matriz[1, 1] && matriz[1, 1] == matriz[2, 1] ||
-                //    matriz[2, 0] != matriz[2, 1] && matriz[2, 1] == matriz[2, 2] || matriz[0, 1] != matriz[1, 1] && matriz[2, 1] ==
-                //    matriz[1, 1] || matriz[2, 0] != matriz[2, 1] && matriz[2, 1] == matriz[2, 2])   //acabei colocando esse if,
-                //                                                                                    //pq como fiz com char n achei outra solução para o empate
-                //{
-                //    Console.WriteLine("DEU VELHA, EMPATASTE MEUS QUERIDOS!!");
-                    
-                //}               
-
                 FimDaTela();
 
                 Console.Write($"Escolha uma posição para jogar:");//repete a frase                
                 Console.WriteLine();
                 escolha = Console.ReadKey().KeyChar;//jogada
-                Console.WriteLine();            
-               
-                //ALTERNANDO EM X E O
-                if (turno1 == 'X') //Alterando o jogador
-                {
-                    Console.WriteLine($"Jogador 1 {turno1}");
-                    turno1 = turno2;
-                    
-                }
-                else
-                {
-                    Console.WriteLine($"Jogador 2: {turno2}");
-                    turno1 = 'X';
-                    
+                Console.WriteLine();   
+            }
 
-                }      
-                                               
-                Console.WriteLine();               
-
-                Console.Clear();//corrigir isso amanha
-                
-            }               
             
+            Console.WriteLine("Deu Velha!!");
+
         }       
     }
 }

@@ -1,0 +1,52 @@
+<!DOCTYPE html> 
+<html>    
+    <head>        
+        <title>
+            Contato
+        </title>     
+    </head>   
+    <body style="text-align: justify">
+        
+        <form action="" method="post">                   
+        
+            <h1>Dados do Usuário:</h1>
+            <label for = "nomeCompleto">Nome completo:</label>
+            <input type="text" name="nomeCompleto" id="nomeCompleto"> <br>
+            <label for="email">E-Mail</label>
+            <input type="email" name="email" id="email">
+            <br>
+            <label for="sexo">Sexo:</label>
+            <select name="sexo" id="sexo">
+                <option value="masc">Masculino</option>
+                <option value="fem">Feminino</option>
+                <option value="outro">Outro:</option>
+               
+            </select>
+            <br>
+            Caso selecione outro:
+            <input type="text" name="sexoOutro" id="sexoOutro">
+            <br>
+            <label for="dados">Data de Nascimento:</label>
+            <input type="date" name="dados" id = "dados">        
+                       
+            <br>
+            <label>Me conte seus interesses</label>
+            <input type="checkbox" name="op1" id="op1">Esportes.
+            <input type="checkbox" name="op1" id="op2">Música.
+            <input type="checkbox" name="op1" id="op2">Cinema.
+            <input type="checkbox" name="op1" id="op2">Tecnologia.
+            <br>        
+            <label for="mensagem">Deixe sua mensagem:</label>
+            <textarea name="mensagem" id="mensagem" cols="50" rows="7"></textarea>
+            <br>    
+    
+            <button type="submit">Enviar</button>
+            <button type="reset">Limpar</button>
+    
+        </form>
+    </body>
+    
+    <br><br><br>
+    <footer><li><a href="index.html">Votar à página principal</a></li>   </footer>
+     
+</html>

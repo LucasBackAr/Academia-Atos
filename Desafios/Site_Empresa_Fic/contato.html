@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="/style/style.css">
+    <link rel="shortcut icon" href="/assets/logo_transparente_menu.ico">
+    <title> 
+        Inicio        
+    </title>
+</head>
+<body class="container">    
+        <header class="head__">        
+                      
+           
+        <nav class="head__menu">   
+            <img src="/assets/patitastransparent.png" alt="", width="85rem", height="30rem">         
+            <a class="head__menu__link" href="index.html">Inicio</a>
+            <a class="head__menu__link" href="about.html">Sobre</a>
+            <a class="head__menu__link" href="gallery.html">Suas Patitas</a>
+            <a class="head__menu__link" href="contato.html">Contato</a>                        
+        </nav>
+    </header>   
+    
+    <main class="main__contato">
+        <div class="campo">
+            <br> <br> <br> <br>
+            <h1 id="titulo">Entre em contato conosco</h1>
+            <p id="subtitulo">Complete suas informações com as patinhas e de seu tutor</p>
+            <br>
+        </div>          
+        <form action="">
+            <fieldset class="grupo">
+                <div class="campo">
+                    <label for="nome"><strong>Nome do seu pet:</strong></label>
+                    <input type="text" name="Nome" id="nome" required>
+                    <br>
+                    <label for="nomeTutor"><strong>Nome do Tutor:</strong></label>
+                    <input type="text" name="nomeTutor" id="nomeTutor" required> 
+                </div>
+                 
+                <div class="campo">
+                    <label for="email"><strong>Email</strong></label>
+                    <input type="email" name="email" id="email">
+                </div>                
+            </fieldset>
+            
+            <div class="campo">
+                <label for="porte"><strong>Qual seu porte?</strong></label>
+                <select name="porte" id="porte">
+                    <option selected disabled value="">Selecione</option>
+                    <option value="medio">Pequeno</option>
+                    <option value="medio">Médio</option>
+                    <option value="pequeno">Pequeno</option>                   
+                </select>
+            </div>
+            <fieldset class="grupo">
+                <div id="check">
+                    <label for="tipoDoPet"><strong>Selecione que bichinho você é, e se tem irmãozinhos</strong> </label>
+                    <br> <br>
+                    <input type="checkbox" id="tipoDePet" name="tipoDePet" value="dog">
+                    <label for="tipoDoPet" for="tipoDePet">Doguito</label>
+                    <input type="checkbox" id="tipoDePet" name="tipoDePet" value="cat">
+                    <label for="tipoDoPet" for="tipoDePet">Gatito</label>
+                    <input type="checkbox" id="tipoDePet" name="tipoDePet" value="hamster">
+                    <label for="tipoDoPet" for="tipoDePet">Hamstersito</label>
+                    <input type="checkbox" id="tipoDePet" name="tipoDePet" value="coelho">
+                    <label for="tipoDoPet" for="tipoDePet">Coelhito</label>
+                    <input type="checkbox" id="tipoDePet" name="tipoDePet" value="outro">
+                    <label for="tipoDoPet" for="tipoDePet">Outro</label>
+                    <br>
+                    <label for="outro"><strong>Caso seja outro nos conte:</strong></label>
+                    <input type="text" name="outro" id="outro">
+                </div>
+                               
+            </fieldset>
+            <br> 
+            <div class="campo">
+                <label for="nota" ><strong>Qual foi sua experiência com os produtos Patitas?</strong></label>
+                <br>
+                <label for="muitoBom">
+                    <input type="radio" name="nota" value="muitoBom" checked>Muito bom!
+                </label>
+                <label for="bom">
+                    <input type="radio" name="nota" value="bom">Bom!
+                </label>
+                <label for="regular">
+                    <input type="radio" name="nota" value="regular">Regular
+                </label>
+                <label for="ruim">
+                    <input type="radio" name="nota" value="ruim">Ruim!
+                </label>
+                <label for="muitoRuim">
+                    <input type="radio" name="nota" value="muitoRuim">Muito ruim!
+                </label>
+            </div>
+
+            <div class="campo">
+                <br>
+                <label for="experiencia"><strong>Conte-nos um pouco da sua expêriencia:</strong></label>
+                <textarea row="6" style="width: 26em;" id="experiencia" name="experiencia"> </textarea>
+            </div>
+            <br>
+
+            <button class="botao" type="submit">Enviar</button>
+            <button class="botao" type="reset">Limpar</button>
+        </form>
+
+    </main>
+    <br><br><br>
+    <section class="imagem__bottom">
+        <img src="/assets/pet2.png" class="imagem__bottom__imagem" alt="Cachorrinhos e gatinhos alinhados lado a lado", width="70%">
+    </section> 
+     
+</body>
+<br>
+<footer class="rodape"> <!--Ilustrativo-->   
+    <img id="imagem_rodape" src="/assets/patitastransparent__texto.png" alt="Logo Patitas" class="rodape__logo">
+    <ul class="rodape__lista">
+        <li class="lista__link">
+            <a href="#">Serviços</a>
+        </li>
+        <li class="lista__link">
+            <a href="#">Conheça nossas lojas</a>
+        </li>
+        <li class="lista__link">
+            <a href="#">Contrato de assinatura</a>
+        </li>
+        <li class="lista__link">
+            <a href="#">Politica de privacidade</a>
+        </li>
+        <li class="lista__link">
+            <a href="#">Cuidados Pets</a>
+        </li>
+        <li class="lista__link">
+            <a href="#">Outros tipos de assinatura</a>
+        </li>
+        <li class="lista__link">
+            <a href="#">Ajuda</a>
+        </li>        
+    </ul>
+    <p class="rodape__texto">® 2023 Patitas. Todos os direitos reservados. Serviço de
+        assinatura paga. Conteúdo sujeito a disponibilidade.</p>
+    <p class="rodape__texto">Patitas é um serviço pago, baseado em assinatura e sujeito a termos e condições. O
+        serviço Patitas é comercializado por Patitas serviços e comercio pet .LTDA, Rua Vicente Prado Lima, 29 - Camobi, Santa Maria - RS, 97105-390, Brasil e CNPJ 01.234.567/0001-98</p>
+</footer>
+</html>

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Atividade3</title>
+</head>
+<body>
+    <header class="header">
+        <a class="head__volta" href="index.html">Volte para o Inicio</a>
+        <a class="head__vai" href="atividade5.html">Próxima</a>
+    </header>
+    <main class="container_esconde">
+        <h2>
+            <br><br><br><br>
+            <p>4-crie um parágrafo com um texto como conteúdo. adicione um botao, ao ser clicado, oculte ou mostre o paragrafo.</p>            
+        </h2>
+       <h1>
+        <p class="esconde" id="esconde">
+            Parabéns você ganhou o prêmio!
+        </p>
+       </h1>
+
+       <button class="botao_esconde" id="showEsconde">Mostrar/Esconder</button>
+        
+    </main>
+    <br><br><br><br><br>
+    
+    <script>
+        var btn = document.querySelector('#showEsconde');
+        var esconde = document.querySelector('.esconde')
+
+        btn.addEventListener('click', function(){
+            if(esconde.style.display === 'block'){
+                esconde.style.display = 'none;'
+            }
+            else{
+                esconde.style.display = 'block'
+            }
+        })
+    </script>
+</body>
+<footer> 
+    <div>
+    <h3><a class="botao_foot" href="atividade3.html">Anterior</a></h3>
+</div>
+</footer>
+</html>

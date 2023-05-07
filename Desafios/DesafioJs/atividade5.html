@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Atividade5</title>
+</head>
+<body>
+    <header class="header">
+        <a class="head__volta" href="index.html">Volte para o Inicio</a>
+        <a class="head__vai" href="atividade6.html">Próxima</a>
+    </header>
+    <main class="container_esconde">
+        <br><br><br><br><br><br>
+        <h2> 
+            <label for="checkbox"></label>
+            5- Crie um formulario de seleção de itens com checkbox. O formulario deve possuir um botão desabilitado. O botão só se torna clicavél quanto tiver pelo menos 2 checkbox marcado.  
+            </label>          
+        </h2>
+        <br><br><br><br>
+        
+        <input type="checkbox" name="checkbox" class="checkbox" id="checkbox" onclick="ativBtn()">
+        <input type="checkbox" name="checkbox" class="checkbox" id="checkbox" onclick="ativBtn()">
+        <input type="checkbox" name="checkbox" class="checkbox" id="checkbox" onclick="ativBtn()">
+        <input type="checkbox" name="checkbox" class="checkbox" id="checkbox" onclick="ativBtn()">
+        <br><br><br>
+
+        <button class="botaoativ5" id="botaoAtivo">Click para Enviar</button>
+
+
+    </main>
+    <br><br><br><br><br>
+    <div>
+        <h3><a class="botao_foot" href="atividade4.html">Anterior</a></h3>
+    </div>
+
+    <script>
+
+        function ativBtn() {
+			var checkboxes = document.getElementsByName("checkbox");
+			var totalSelecionados = 0;
+			for (var i = 0; i < checkboxes.length; i++) {
+				if (checkboxes[i].checked) {
+					totalSelecionados++;
+				}
+			}
+			if (totalSelecionados >= 2) {
+				document.getElementById("botaoAtivo").disabled = false;
+			} else {
+				document.getElementById("botaoAtivo").disabled = true;
+                
+                document.getElementById("botaoAtivo").addEventListener("click", function()
+        {
+                document.querySelector("body").setAttribute("class","Vermelho");
+        })
+			}
+		} 
+
+        
+        
+    </script>
+</body>
+</html>

@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Atividade 1</title>
+</head>
+<body>
+    <header class="header">
+        <a class="head__volta" href="index.html">Volte para o Inicio</a>
+        <a class="head__vai" href="atividade2.html">Próxima Atividade</a>
+    </header>
+    <main>
+        <section class="container">
+            <h2>1 - Crie um formulario com 4 botões que, ao clicar em cada um altere a cor do plano de fundo da página para vermelho, verde, azul e amarelo, respectivamente.</h2>
+            <br><br><br>           
+            <button class="Vermelho" id="botaoVermelho">Vermelho</button>
+            <button class="Verde" id="botaoVerde">Verde</button>
+            <button class="Azul" id="botaoAzul">Azul</button>
+            <button class="Amarelo" id="botaoAmarelo">Amarelo</button>
+        </section>
+    </main>
+
+    <script>
+        document.getElementById("botaoVermelho").addEventListener("click", function()
+        {
+            document.querySelector("body").setAttribute("class","Vermelho");
+        })
+        document.getElementById("botaoVerde").
+        addEventListener("click", function()
+        {
+            document.querySelector("body").setAttribute("class","Verde");
+        })
+        document.getElementById("botaoAzul").
+        addEventListener("click", function()
+        {
+            document.querySelector("body").setAttribute("class","Azul");
+        })
+        document.getElementById("botaoAmarelo").
+        addEventListener("click", function()
+        {
+            document.querySelector("body").setAttribute("class","Amarelo");
+        })
+
+    </script>
+
+    <br><br><br><br><br><br>
+    <footer>
+        <div>
+            <h2><a class="botao_foot" href="index">Anterior</a></h3>
+        </div>
+    </footer>
+    
+</body>
+</html>

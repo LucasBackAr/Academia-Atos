@@ -68,7 +68,9 @@
 .main__about{
    display: grid;
    grid-template: 1fr 1fr; 
-
+}
+.imagem__banner{
+    border-radius: 10px;
 }
 .text__{
     padding: 0% 0 3% 0%;
@@ -334,7 +336,7 @@ tr .tabela__dinheiro:hover{
 @media (max-width:1200px){
     .main__ {
         gap: 0.5rem;
-    padding: 0;
+        padding: 0;
     }
     .main__contato{
         
@@ -343,8 +345,31 @@ tr .tabela__dinheiro:hover{
         padding: 0;
         margin: 0;
     }
-    .head__{
-        padding: 0;
+    .head__{        
+        flex-direction: column;
+        justify-content: left;
+        padding: 0%;
+        margin: 0;
+        background: none;
+        gap: 1em;
+        
+    }
+    .head__menu{
+        padding: 0;  
+        column-count: 2;
+        justify-items: left;
+        gap: .5rem;
+    }
+    .head__menu__link{
+        font-family: var(--font--text);
+        font-size: 20px;
+        font-weight: 200;
+        color: var(--font-color2);
+        text-decoration: none;
+    }
+    .main__section{
+        flex-direction: column;
+        gap:0;
     }
     .main__section__text{
         font-family: var(--font--text);
@@ -356,10 +381,16 @@ tr .tabela__dinheiro:hover{
         font-size: 2rem; 
         text-align:left;
     }
+    #main__box__patitas{
+        width: 30rem;
+    }
     .main__gallery{
         padding: 0;
         margin: 50px;
         margin-top: 0;
+    }
+    .main__about{
+        padding: 0;
     }
     
     .main__gallery__img img:hover{
@@ -390,5 +421,15 @@ tr .tabela__dinheiro:hover{
         margin-top: 0;
         padding-top: 0;
         padding-left: 10%;
+    }
+    .rodape{
+        display: flex;
+        flex-direction: column;
+        size-adjust: 2em;
+        justify-content: left;
+        margin-top: .5em;
+    }
+    #imagem_rodape{
+        width: 30%;
     }
 }

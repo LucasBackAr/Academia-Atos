@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Atividade 2</title>
+</head>
+<body>
+    <<header class="header">
+        <a class="head__volta" href="index.html">Volte para o Inicio</a>
+        <a class="head__vai" href="atividade3.html">Próxima Atividade</a>
+    </header>
+    <main>
+        <section class="container">
+            <h2>
+                2- Crie uma página com 4 links, cada um representando o nome de uma cor, que ultilizando o evendo onmouseover altere a cor do plano de fundo para a cor correspondente.
+            </h2>
+            <br><br><br>
+
+            <div onmouseover="mouseDentro(this)" onmouseout="mouseFora(this)">
+                <h3>
+                    <a class="Vermelho" id="linkVermelho" href="#">Vermelho</a>                    
+                </h3>
+            </div>
+<br>
+            <div onmouseover="mouseDentroVerde(this)" onmouseout="mouseFora(this)">
+                <h3> 
+                    <a class="Verde" id="linkVerde" href="#">Verde</a>
+                </h3>
+            </div>
+<br>
+            <div onmouseover="mouseDentroAmarelo(this)" onmouseout="mouseFora(this)">
+            <h3>
+                <a class="Amarelo" id="linkAmarelo" href="#">Amarelo
+                </a>
+            </h3>
+            </div>
+<br>
+            <div onmouseover="mouseDentroAzul(this)" onmouseout="mouseFora(this)">
+             <h3>
+                <a class="Azul" id="linkAzul" href="#">Azul
+
+                </a>
+            </h3>
+            </div>
+            
+           
+           
+        </section>
+    </main>
+    <script>
+        
+        function mouseDentro(cor)
+        {
+           document.querySelector("body").setAttribute("class", "Vermelho")
+            
+        };
+
+        function mouseDentroVerde(cor)
+        {
+           document.querySelector("body").setAttribute("class", "Verde")
+            
+        };
+
+        function mouseDentroAmarelo(cor)
+        {
+           document.querySelector("body").setAttribute("class", "Amarelo")
+            
+        };
+        function mouseDentroAzul(cor)
+        {
+           document.querySelector("body").setAttribute("class", "Azul")
+            
+        };
+        
+        function mouseFora(cor)
+        {
+            document.querySelector("body").setAttribute("class","Branco")
+        };
+    </script>
+    
+    
+</body>
+<footer>
+    <div>
+        <h3><a class="botao_foot" href="atividade1.html">Atividade Anterior</a></h3>
+    </div>
+</footer>
+</html>

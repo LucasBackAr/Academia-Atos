@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style2.css">
+    <title>Atividade7</title>
+</head>
+<body>
+    <header class="header">
+        <a class="head__volta" href="index.html">Volte para o Inicio</a>
+        <a class="head__vai" href="atividade8.html">Próxima</a>
+    </header>
+    <main class="container_esconde">
+        <br><br><br><br><br><br>
+        <h2> 
+            <label>
+            7- Crie um botão + e -, na mesma página do exercicio anterior. Esses botões aumentam e diminuem o tamanho da Fonte  
+            </label>          
+        </h2>
+        <br><br><br><br>
+        <div>
+            <button class="aumenta" id="aumenta" onclick="ativBtnAument()">Aumenta (+)</button>
+            <button class="diminui" id="diminui" onclick="ativBtnDimin()">Diminui (-)</button>
+        </div>
+        <br><br>
+        <div id="mudaCor">
+        <p class="paragrafo" id="paragrafo">
+            Bem-vindo ao site mais incrível da internet! Aqui, você vai encontrar tudo o que precisa para deixar sua vida mais fácil e divertida. Temos as últimas novidades em tecnologia, os melhores produtos para beleza e cuidados pessoais, além de dicas e truques para facilitar o seu dia a dia. Queremos que você se sinta em casa, por isso, criamos um ambiente acolhedor e cheio de surpresas. Navegue por nossas páginas e descubra o mundo que preparamos especialmente para você. Temos promoções imperdíveis e ofertas exclusivas que vão fazer você economizar muito. Não perca mais tempo e comece agora mesmo a sua experiência em nosso site!
+        </p>
+        </div>
+        <br><br>
+        <div class="botao_mudaCor">           
+            <button class="mudaFontPreto" id="mudaFontPreto">Fonte Preta</button>
+            <button class="mudaFontBranco" id="mudaFontBranco">Fonte Branca</button>
+            <button class="mudaBgBranco" id="mudaBgBranco"> Fundo Branco</button>
+            <button class="mudaBgPreto" id="mudaBgPreto"> Fundo Preto</button>                        
+        </div>
+        <br>
+        
+        
+
+        <br><br><br>
+
+     
+
+
+    </main>
+    <br><br><br><br><br>
+    <footer>
+        <div>
+            <h3><a class="botao_foot" href="atividade6.html">Anterior</a></h3>
+        </div>
+    </footer>
+    <script>
+        document.getElementById("mudaFontPreto").addEventListener("click", function()
+        {
+            document.getElementById("paragrafo").style.color = "#000000";
+        })
+        document.getElementById("mudaFontBranco").addEventListener("click", function()
+        {
+            document.getElementById("paragrafo").style.color = "#FFFFFF";
+        })
+        document.getElementById("mudaBgBranco").addEventListener("click", function()
+        {
+            document.getElementById("paragrafo").style.backgroundColor = "#FFFFFF";
+        })
+        document.getElementById("mudaBgPreto").addEventListener("click", function()
+        {
+            document.getElementById("paragrafo").style.backgroundColor = "#000000";
+        })       
+        
+        function ativBtnAument(){
+            var text = document.getElementById("paragrafo");
+            var tamanho = window.getComputedStyle(text, null).getPropertyValue('font-size');
+            var fontSize = parseFloat(tamanho);
+            text.style.fontSize = (fontSize + 2) + 'px';
+        }
+        function ativBtnDimin(){
+            var text = document.getElementById("paragrafo");
+            var tamanho = window.getComputedStyle(text).getPropertyValue('font-size');
+            var fontSize = parseFloat(tamanho);
+            text.style.fontSize = (fontSize - 2) + 'px';
+        }
+        
+        
+
+    </script>
+</body>
+</html>

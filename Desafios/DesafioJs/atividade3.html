@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Atividade3</title>
+</head>
+<body>
+    <header class="header">
+        <a class="head__volta" href="index.html">Volte para o Inicio</a>
+        <a class="head__vai" href="atividade4.html">Próxima Atividade</a>
+    </header>
+    <main>
+        <h2>
+            <br><br><br><br>
+            3-Crie uma página com uma lista (select - RadioButton) com 4 opções de cores. Ao selecionar uma opção de cor, altere o plano de fundo da página para a cor especifica.
+        </h2>
+        <br><br><br>
+        <h2>Alterar Plano de Fundo</h2>
+        <br><br>
+        <h3>
+	<label for="cores">Escolha uma cor:</label>
+	<select id="cores" onchange="alterarPlanoDeFundo()">
+		<option value="white">Branco</option>
+		<option value="red">Vermelho</option>
+		<option value="green">Verde</option>
+		<option value="blue">Azul</option>
+        <option value="brown">Marrom</option>
+	</select>
+    <br><br><br>
+    Escolha uma Cor <br>
+	    <input type="radio" id="branco" name="cor" value="white" onchange="alteraCor()">
+	    <label for="branco">Branco</label><br>
+	    <input type="radio" id="vermelho" name="cor" value="red" onchange="alteraCor()">
+	    <label for="vermelho">Vermelho</label><br>
+	    <input type="radio" id="verde" name="cor" value="green" onchange="alteraCor()">
+	    <label for="verde">Verde</label><br>
+	    <input type="radio" id="azul" name="cor" value="blue" onchange="alteraCor()">
+	    <label for="azul">Azul</label><br>
+        </h3>   
+        
+    </main>
+    <br><br><br><br><br>
+    <div>
+        <h3><a class="botao_foot" href="atividade2.html">Atividade Antetior</a></h3>
+    </div>
+
+    <script>
+
+       function alterarPlanoDeFundo() {
+			var selecao = document.getElementById("cores");
+			var opcaoSelecao = selecao.options[selecao.selectedIndex].value;
+			document.body.style.backgroundColor = opcaoSelecao;
+        }
+        function alteraCor(){
+            var radioCor = document.getElementsByName("cor");
+            var seleCor = "";
+
+            for (var i = 0; i < 4; i++){
+                if(radioCor[i].checked) 
+                {
+                    seleCor = radioCor[i].value;
+                    break;
+                }
+            }
+
+            document.body.style.backgroundColor = seleCor;
+        }
+
+    </script>
+</body>
+</html>

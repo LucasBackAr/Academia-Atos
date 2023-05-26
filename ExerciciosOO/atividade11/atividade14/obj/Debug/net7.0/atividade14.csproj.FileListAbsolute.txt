@@ -1,0 +1,15 @@
+D:\Academia Atos\exercicios\ExerciciosOO\atividade11\atividade14\bin\Debug\net7.0\atividade14.exe
+D:\Academia Atos\exercicios\ExerciciosOO\atividade11\atividade14\bin\Debug\net7.0\atividade14.deps.json
+D:\Academia Atos\exercicios\ExerciciosOO\atividade11\atividade14\bin\Debug\net7.0\atividade14.runtimeconfig.json
+D:\Academia Atos\exercicios\ExerciciosOO\atividade11\atividade14\bin\Debug\net7.0\atividade14.dll
+D:\Academia Atos\exercicios\ExerciciosOO\atividade11\atividade14\bin\Debug\net7.0\atividade14.pdb
+D:\Academia Atos\exercicios\ExerciciosOO\atividade11\atividade14\obj\Debug\net7.0\atividade14.csproj.AssemblyReference.cache
+D:\Academia Atos\exercicios\ExerciciosOO\atividade11\atividade14\obj\Debug\net7.0\atividade14.GeneratedMSBuildEditorConfig.editorconfig
+D:\Academia Atos\exercicios\ExerciciosOO\atividade11\atividade14\obj\Debug\net7.0\atividade14.AssemblyInfoInputs.cache
+D:\Academia Atos\exercicios\ExerciciosOO\atividade11\atividade14\obj\Debug\net7.0\atividade14.AssemblyInfo.cs
+D:\Academia Atos\exercicios\ExerciciosOO\atividade11\atividade14\obj\Debug\net7.0\atividade14.csproj.CoreCompileInputs.cache
+D:\Academia Atos\exercicios\ExerciciosOO\atividade11\atividade14\obj\Debug\net7.0\atividade14.dll
+D:\Academia Atos\exercicios\ExerciciosOO\atividade11\atividade14\obj\Debug\net7.0\refint\atividade14.dll
+D:\Academia Atos\exercicios\ExerciciosOO\atividade11\atividade14\obj\Debug\net7.0\atividade14.pdb
+D:\Academia Atos\exercicios\ExerciciosOO\atividade11\atividade14\obj\Debug\net7.0\atividade14.genruntimeconfig.cache
+D:\Academia Atos\exercicios\ExerciciosOO\atividade11\atividade14\obj\Debug\net7.0\ref\atividade14.dll

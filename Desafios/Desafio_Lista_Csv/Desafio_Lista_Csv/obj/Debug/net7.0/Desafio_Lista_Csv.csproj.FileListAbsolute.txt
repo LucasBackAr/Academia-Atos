@@ -1,0 +1,15 @@
+D:\Academia Atos\exercicios\Desafios\Desafio_Lista_Csv\Desafio_Lista_Csv\bin\Debug\net7.0\Desafio_Lista_Csv.exe
+D:\Academia Atos\exercicios\Desafios\Desafio_Lista_Csv\Desafio_Lista_Csv\bin\Debug\net7.0\Desafio_Lista_Csv.deps.json
+D:\Academia Atos\exercicios\Desafios\Desafio_Lista_Csv\Desafio_Lista_Csv\bin\Debug\net7.0\Desafio_Lista_Csv.runtimeconfig.json
+D:\Academia Atos\exercicios\Desafios\Desafio_Lista_Csv\Desafio_Lista_Csv\bin\Debug\net7.0\Desafio_Lista_Csv.dll
+D:\Academia Atos\exercicios\Desafios\Desafio_Lista_Csv\Desafio_Lista_Csv\bin\Debug\net7.0\Desafio_Lista_Csv.pdb
+D:\Academia Atos\exercicios\Desafios\Desafio_Lista_Csv\Desafio_Lista_Csv\obj\Debug\net7.0\Desafio_Lista_Csv.csproj.AssemblyReference.cache
+D:\Academia Atos\exercicios\Desafios\Desafio_Lista_Csv\Desafio_Lista_Csv\obj\Debug\net7.0\Desafio_Lista_Csv.GeneratedMSBuildEditorConfig.editorconfig
+D:\Academia Atos\exercicios\Desafios\Desafio_Lista_Csv\Desafio_Lista_Csv\obj\Debug\net7.0\Desafio_Lista_Csv.AssemblyInfoInputs.cache
+D:\Academia Atos\exercicios\Desafios\Desafio_Lista_Csv\Desafio_Lista_Csv\obj\Debug\net7.0\Desafio_Lista_Csv.AssemblyInfo.cs
+D:\Academia Atos\exercicios\Desafios\Desafio_Lista_Csv\Desafio_Lista_Csv\obj\Debug\net7.0\Desafio_Lista_Csv.csproj.CoreCompileInputs.cache
+D:\Academia Atos\exercicios\Desafios\Desafio_Lista_Csv\Desafio_Lista_Csv\obj\Debug\net7.0\Desafio_Lista_Csv.dll
+D:\Academia Atos\exercicios\Desafios\Desafio_Lista_Csv\Desafio_Lista_Csv\obj\Debug\net7.0\refint\Desafio_Lista_Csv.dll
+D:\Academia Atos\exercicios\Desafios\Desafio_Lista_Csv\Desafio_Lista_Csv\obj\Debug\net7.0\Desafio_Lista_Csv.pdb
+D:\Academia Atos\exercicios\Desafios\Desafio_Lista_Csv\Desafio_Lista_Csv\obj\Debug\net7.0\Desafio_Lista_Csv.genruntimeconfig.cache
+D:\Academia Atos\exercicios\Desafios\Desafio_Lista_Csv\Desafio_Lista_Csv\obj\Debug\net7.0\ref\Desafio_Lista_Csv.dll

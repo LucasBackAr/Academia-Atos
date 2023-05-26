@@ -27,7 +27,7 @@ namespace ProgramaConsulta
 
         public string SobreNome()
         {
-            string[] lista = Nome.Split(',');
+            string[] lista = Nome.Split(','); //srver para separar o nome [Lucas, Back, Araujo] (dentro da lista)
             return lista[lista.Length - 1] + " " + Conselho;
         }
     }
